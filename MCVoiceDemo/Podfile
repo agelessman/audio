@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target ‘MCVoiceDemo’ do
+
+
+pod 'SDAutoLayout', '~> 1.31'
+
+end
